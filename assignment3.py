@@ -1,7 +1,7 @@
-Task 3:
-Write a Python function that removes duplicates from an amount in a list and also sum up all the items and remove 7% VAT from that amount. And print the amount.
+#Task 3:
+#Write a Python function that removes duplicates from an amount in a list and also sum up all the items and remove 7% VAT from that amount. And print the amount.
 
-ANSWER:
+#ANSWER:
   
 # List Items
 Amount_list = [2000, 1200, 2000, 5000, 3000, 1200, 2500, 5000]
