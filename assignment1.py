@@ -1,8 +1,8 @@
-Task 1:
-Write a Python program that sums up all the items in a list of 9 items; remove duplicates and print the result. 
+#Task 1:
+#Write a Python program that sums up all the items in a list of 9 items; remove duplicates and print the result. 
 
 
-ANSWER:
+#ANSWER:
 
 
 
