@@ -1,7 +1,7 @@
-Task 2: 
-Write a Python program with 15 items in a list; Print the largest and smallest number from the list.
+#Task 2: 
+#Write a Python program with 15 items in a list; Print the largest and smallest number from the list.
 
-ANSWER:
+#ANSWER:
   
 Numbers = [2,20,30,40,5,6,9,10,53,45,67,23,65,34,31]
 
